@@ -39,4 +39,3 @@ to hacking on the GeoTools library itself.
 ## More Information
 
 Visit the [website](http://geotools.org/) or read the [docs](http://docs.geotools.org/). 
-
